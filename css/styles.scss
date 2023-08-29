@@ -8,6 +8,7 @@ $color-teal: #17A2B8;
 
 $body-font: "Open Sans", sans-serif;
 $header-font: "Lobster", cursive;
+@import 'weather';
 
 body {
     font-family: $body-font;
